@@ -23,6 +23,7 @@
   "homepage": "https://github.com/mslnance/u-develop-it#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "inputcheck": "0.0.1",
     "sqlite3": "^5.0.0"
   },
   "devDependencies": {
